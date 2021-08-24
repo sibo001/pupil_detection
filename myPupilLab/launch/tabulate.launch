@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launch>
+		<node name="resultsTabulator" pkg="myPupilLab" type="resultsTabulator" args="" 			output="screen">
+		</node>
+		<param name="groundTruth" value="bottle" type="string" />
+		<param name="configDone" value="false" type="bool" />
+
+</launch>
