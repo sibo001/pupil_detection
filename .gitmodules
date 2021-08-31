@@ -1,0 +1,3 @@
+[submodule "pupil_detection"]
+	path = pupil_detection
+	url = https://github.com/sibo001/pupil_detection.git
